@@ -1,0 +1,18 @@
+.bc-ff {
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#c-fs {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.fc {
+    font-size: 24px;
+}
+
+#bc-fs-fw {
+    background-color: hsl(120, 73%, 75%);
+    font-weight: bold;
+}
